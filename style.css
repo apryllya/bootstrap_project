@@ -1,0 +1,43 @@
+body {
+  position: relative;
+  background-color: #EFFFFA;
+  padding-top: 70px;
+}
+
+nav {
+  border-bottom: 5px solid #7284A8;
+}
+
+.aboutMeImg {
+  max-width: 200px;
+}
+
+hr {
+  max-width: 70%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.followList img {
+  height: 20px;
+  padding-left: 10px;
+}
+
+.followList li {
+  display: inline;
+}
+
+footer {
+  border-top: 5px solid #7284A8;
+}
+
+footer li {
+  float: right;
+  padding-left: 10px;
+}
+
+footer img {
+  height: 20px;
+}
